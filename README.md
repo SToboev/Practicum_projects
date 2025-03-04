@@ -4,4 +4,4 @@ ___
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Стримчик](интернет-магазин компьютерных игр) | Выявление определяющие успешность игр закономерностей, что позволит сделать ставку на потенциально популярный продукт | *pandas, matplotlib, numpy, seaborn, plotly.graph_objs, plotly.express, scipy.stats* |
+| [Стримчик - магазин компьютерных игр]( https://github.com/SToboev/Practicum_projects/blob/main/Strimchik_games_project.ipynb) | Выявление определяющие успешность игр закономерностей, проверка гипотез| *pandas, matplotlib, numpy, seaborn, plotly.graph_objs, plotly.express, scipy.stats* |
